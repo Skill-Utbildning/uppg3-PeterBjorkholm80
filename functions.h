@@ -1,0 +1,1 @@
+float celsius_to_fahrenheit(float c);
