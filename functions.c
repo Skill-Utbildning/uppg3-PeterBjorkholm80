@@ -1,5 +1,5 @@
 // THIS FILE WILL BE REMOVED IN THE FINAL VERSION?
-
+//
 #include "functions.h"
 
 float celsius_to_fahrenheit(float c){
